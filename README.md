@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imvinhng
-- 👀 I’m interested in building small projects, games, apps, utility software to make life easier, bit by bit.
+- 👀 I’m interested in building small projects, games, apps, utility software to make life easier.
 - 🌱 I’m currently learning Cryptopraphy, Operating Systems and Database at UWT.
 - 💞️ I’m looking to collaborate on any current working directories or open-sourced projects.
 - 📫 Best way to reach me is via my University email vnguye3@uw.edu.
