@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, Unity, Node.js**
 
-- 👯 I’m looking to collaborate on WOLFGANG
+- 👯 I’m looking to collaborate on **WOLFGANG**
 
 - 💬 Ask me about **React**
 
