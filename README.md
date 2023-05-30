@@ -1,4 +1,4 @@
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://imvinhng.io)
+[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)]
 <h1 align="center">Hi 👋, I'm Vinh Nguyen</h1>
 <h3 align="center">A passionate Full Stack developer from Seattle</h3>
 
@@ -6,6 +6,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imvinhng" alt="imvinhng" /></a> </p> -->
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 - 🔭 I’m currently working on Money Plant
 
 - 🌱 I’m currently learning **Python, Unity, Node.js**
