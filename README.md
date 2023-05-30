@@ -1,7 +1,7 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://imvinhng.io)
 <h1 align="center">Hi 👋, I'm Vinh Nguyen</h1>
 <h3 align="center">A passionate Full Stack developer from Seattle</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvinhng&label=Profile%20views&color=0e75b6&style=flat" alt="imvinhng" /> </p>
 
